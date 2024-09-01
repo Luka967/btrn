@@ -1,0 +1,93 @@
+Početna forma timova
+                  Kanada: 953
+              Australija: 962
+                   Grčka: 878
+                 Španija: 1011
+                 Nemačka: 939
+               Francuska: 906
+                  Brazil: 875
+                   Japan: 736
+       Sjedinjene Države: 1042
+                  Srbija: 1008
+             Južni Sudan: 665
+             Puerto Riko: 788
+
+Grupna faza
+    I kolo
+        Grupa A |           Australija (36.3%)    74:80  W Španija             
+        Grupa A |                Grčka (29.7%)    81:96  W Kanada              
+        Grupa B |              Nemačka (91.2%) W 113:101   Japan               
+        Grupa B |            Francuska (59.1%) W  82:65    Brazil              
+        Grupa C |          Južni Sudan (19.5%) W 110:107   Puerto Riko          [PREVRNUĆE]
+        Grupa C |               Srbija (40.4%) W 110:98    Sjedinjene Države   
+    II kolo
+        Grupa A |              Španija (86.5%)    96:98  W Grčka                [PREVRNUĆE]
+        Grupa A |               Kanada (55.2%)    88:101 W Australija          
+        Grupa B |                Japan (10.0%)    93:105 W Francuska           
+        Grupa B |               Brazil (26.9%)    82:93  W Nemačka             
+        Grupa C |          Puerto Riko ( 4.0%)    98:110 W Srbija              
+        Grupa C |    Sjedinjene Države (97.5%) W 114:78    Južni Sudan         
+    III kolo
+        Grupa A |               Kanada (36.0%) W 101:94    Španija             
+        Grupa A |           Australija (69.1%)    82:92  W Grčka               
+        Grupa B |               Brazil (79.1%) W  85:67    Japan               
+        Grupa B |              Nemačka (57.5%) W  76:70    Francuska           
+        Grupa C |    Sjedinjene Države (95.4%) W  93:82    Puerto Riko         
+        Grupa C |          Južni Sudan ( 2.0%)    52:88  W Srbija              
+
+Konačni rangovi u grupi
+    Grupa A
+                     Kanada 2W 1L  285-276     9d 5 poena
+                      Grčka 2W 1L  271-274  -  3d 5 poena
+                    Španija 1W 2L  270-273  -  3d 4 poena
+                 Australija 1W 2L  257-260  -  3d 4 poena
+    Grupa B
+                    Nemačka 3W 0L  282-253    29d 6 poena
+                  Francuska 2W 1L  257-234    23d 5 poena
+                     Brazil 1W 2L  232-242  - 10d 4 poena
+                      Japan 0W 3L  261-303  - 42d 3 poena
+    Grupa C
+                     Srbija 3W 0L  308-248    60d 6 poena
+          Sjedinjene Države 2W 1L  305-270    35d 5 poena
+                Južni Sudan 1W 2L  240-309  - 69d 4 poena
+                Puerto Riko 0W 3L  287-313  - 26d 3 poena
+
+Konačna rang lista timova
+    1.               Srbija 3W 0L  308-248    60d 6 poena 1035 forma
+    2.              Nemačka 3W 0L  282-253    29d 6 poena  970 forma
+    3.               Kanada 2W 1L  285-276     9d 5 poena  966 forma
+    4.    Sjedinjene Države 2W 1L  305-270    35d 5 poena 1018 forma
+    5.            Francuska 2W 1L  257-234    23d 5 poena  909 forma
+    6.                Grčka 2W 1L  271-274  -  3d 5 poena  927 forma
+    7.              Španija 1W 2L  270-273  -  3d 4 poena  963 forma
+    8.               Brazil 1W 2L  232-242  - 10d 4 poena  852 forma
+    9.          Južni Sudan 1W 2L  240-309  - 69d 4 poena  695 forma
+
+Šeširi
+    D: Srbija, Nemačka
+    E: Kanada, Sjedinjene Države
+    F: Francuska, Grčka
+    G: Španija, Brazil
+
+Eliminaciona faza
+                  Srbija - Brazil
+                 Nemačka - Španija
+                  Kanada - Francuska
+       Sjedinjene Države - Grčka
+Četvrtfinale
+                  Srbija (89.1%) W 111:82    Brazil              
+                 Nemačka (52.1%) W 113:103   Španija             
+                  Kanada (65.8%)    69:77  W Francuska           
+       Sjedinjene Države (74.2%) W  93:86    Grčka               
+Polufinale
+                  Srbija (63.9%)    74:82  W Nemačka             
+               Francuska (25.4%)    86:110 W Sjedinjene Države   
+Bronzana medalja
+                  Srbija (73.5%) W  93:84    Francuska           
+Zlatna medalja
+                 Nemačka (43.1%) W  96:87    Sjedinjene Države   
+
+Medalje:
+    1. Nemačka
+    2. Sjedinjene Države
+    3. Srbija
