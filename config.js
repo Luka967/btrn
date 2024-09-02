@@ -7,6 +7,9 @@ exports.groupStageDraws = [
     ['GER', 'FRA', 'BRA', 'JPN'],
     ['SSD', 'SRB', 'USA', 'PRI']
 ];
+/**
+ * Tim koji je #1 po FIBA rangu ima ovu formu
+ */
 exports.teamFormBest = 1000;
 exports.teamFormDropPerRank = 10;
 /**
@@ -18,8 +21,8 @@ exports.teamFormDropPerRank = 10;
  *
  * Vidi https://www.youtube.com/watch?v=AsYfbmp0To0&t=63s
  */
-exports.teamFormWinLadderSize = 200;
-exports.teamFormWinLadderBias = 10;
+exports.teamFormWinCurveSize = 200;
+exports.teamFormWinCurveBias = 10;
 /**
  * Najveća promena u formi koja se može desiti ako tim ima 100% šanse za pobedu.
  * Za 50% šanse ovo je polovina
