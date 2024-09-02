@@ -21,7 +21,6 @@ for (const team of groupsArray.flat())
 const teamForm = {};
 const matchUpsetThreshold = 0.7;
 /**
- * Šansa da T1 pobedi
  * @param {Team} t1
  * @param {Team} t2
  */
@@ -86,7 +85,6 @@ function simulateMatch(match) {
            (!t1Won &&      t1WinsChance  >= matchUpsetThreshold)
         || ( t1Won && (1 - t1WinsChance) >= matchUpsetThreshold);
 
-    // Ako je tim sa manjom šansom pobedio verovatno je sa malom razlikom
     const d = config.matchPossibleScoreDiff;
 
     let scoreDiffMul = t1Won ? t1WinsChance : (1 - t1WinsChance);
