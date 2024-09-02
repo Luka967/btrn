@@ -26,10 +26,7 @@ const matchUpsetThreshold = 0.7;
  * @param {Team} t2
  */
 function getT1WinChance(t1, t2) {
-    // ELO format:
-    // Ako T1 ima 160 poena forme više,
-    // šansa da on pobedi je veća 10 prema 1
-    // tj. od 6 mečeva 5 su pobede
+    // https://www.youtube.com/watch?v=AsYfbmp0To0&t=63s
     const d = (teamForm[t2.isoCode] - teamForm[t1.isoCode]) / config.teamFormWinLadderSize;
     return 1 / (1 + Math.pow(config.teamFormWinLadderBias, d));
 }

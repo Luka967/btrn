@@ -15,6 +15,8 @@ exports.teamFormDropPerRank = 10;
  *
  * Npr. tim A ima formu 1200, tim B ima formu 1000, SIZE je 200 a BIAS 10
  * Šansa da tim A pobedi je 10:1, tj. 10/11, 90.9%
+ *
+ * Vidi https://www.youtube.com/watch?v=AsYfbmp0To0&t=63s
  */
 exports.teamFormWinLadderSize = 200;
 exports.teamFormWinLadderBias = 10;
