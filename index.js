@@ -26,8 +26,8 @@ const matchUpsetThreshold = 0.7;
  */
 function getT1WinChance(t1, t2) {
     // https://www.youtube.com/watch?v=AsYfbmp0To0&t=63s
-    const d = (teamForm[t2.isoCode] - teamForm[t1.isoCode]) / config.teamFormWinLadderSize;
-    return 1 / (1 + Math.pow(config.teamFormWinLadderBias, d));
+    const d = (teamForm[t2.isoCode] - teamForm[t1.isoCode]) / config.teamFormWinCurveSize;
+    return 1 / (1 + Math.pow(config.teamFormWinCurveBias, d));
 }
 /**
  * @param {Team} t1

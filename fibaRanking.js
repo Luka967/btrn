@@ -90,7 +90,6 @@ function rankGroup(tournament, groupStats) {
             else
                 // Tehnički nikada
                 throw new Error(`Head-to-head za ${samePts[i][0].team.isoCode}-${samePts[i][1].team.isoCode} je nerešeno po mečevima`);
-            console.log(extracted.map(s => s.team));
             break;
         default:
             // U slučaju da 3 tima iz iste grupe imaju isti broj bodova,
