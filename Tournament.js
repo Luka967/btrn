@@ -1,4 +1,4 @@
-const { groupSymbol } = require('./constant');
+const config = require('./config');
 
 class Team {
     /**
@@ -126,7 +126,7 @@ class Match {
         if (this.isUpset) base += ' [PREVRNUĆE]';
 
         if (this.group != null)
-            return `Grupa ${groupSymbol[this.group]} | ${base}`;
+            return `Grupa ${config.groupSymbol[this.group]} | ${base}`;
         else
             return base;
     }

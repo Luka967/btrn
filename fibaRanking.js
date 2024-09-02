@@ -11,12 +11,12 @@ function getH2HResult(tournament, t1, t2) {
         );
     if (h2hMatches.length === 0)
         return null;
-    const t1Wins = h2hMatches.map(m => m.t1Won);
-    if (t1Wins > h2hMatches.length - t1Wins)
-        return -1;
-    if (t1Wins === h2hMatches.length - t1Wins)
+    const t1Wins = h2hMatches.map(m => m.t1Won).length;
+    if (t1Wins > h2hMatches.length / 2)
+        return 1;
+    if (t1Wins === h2hMatches.length / 2)
         return 0;
-    return 1;
+    return 2;
 }
 
 /**
@@ -81,14 +81,16 @@ function rankGroup(tournament, groupStats) {
         case 2:
             // U slučaju da dva tima iz iste grupe imaju isti broj bodova,
             // rezultat međusobnog susreta će biti korišćen kao kriterijum za rangiranje
-            const h2hResult = getH2HResult(tournament, samePts[i][0].team, samePts[i][1].team);
-            if (h2hResult === -1)
-                extracted.push(bucket[0], bucket[1]);
-            else if (h2hResult === 1)
-                extracted.push(bucket[1], bucket[0]);
+            const s1 = bucket[0], s2 = bucket[1];
+            const h2hResult = getH2HResult(tournament, s1.team, s2.team);
+            if (h2hResult === 1)
+                extracted.push(s1, s2);
+            else if (h2hResult === 2)
+                extracted.push(s2, s1);
             else
                 // Tehnički nikada
                 throw new Error(`Head-to-head za ${samePts[i][0].team.isoCode}-${samePts[i][1].team.isoCode} je nerešeno po mečevima`);
+            console.log(extracted.map(s => s.team));
             break;
         default:
             // U slučaju da 3 tima iz iste grupe imaju isti broj bodova,
