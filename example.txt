@@ -1,79 +1,93 @@
 Početna forma timova
-                  Kanada: NaN
-              Australija: NaN
-                   Grčka: NaN
-                 Španija: NaN
-                 Nemačka: NaN
-               Francuska: NaN
-                  Brazil: NaN
-                   Japan: NaN
-       Sjedinjene Države: NaN
-                  Srbija: NaN
-             Južni Sudan: NaN
-             Puerto Riko: NaN
+                  Kanada: 953
+              Australija: 962
+                   Grčka: 878
+                 Španija: 1011
+                 Nemačka: 939
+               Francuska: 906
+                  Brazil: 875
+                   Japan: 736
+       Sjedinjene Države: 1042
+                  Srbija: 1008
+             Južni Sudan: 665
+             Puerto Riko: 788
 
 Grupna faza
     I kolo
-        Grupa A |           Australija ( NaN%)   NaN:NaN   Španija             
-        Grupa A |                Grčka ( NaN%)   NaN:NaN   Kanada              
-        Grupa B |              Nemačka ( NaN%)   NaN:NaN   Japan               
-        Grupa B |            Francuska ( NaN%)   NaN:NaN   Brazil              
-        Grupa C |          Južni Sudan ( NaN%)   NaN:NaN   Puerto Riko         
-        Grupa C |               Srbija ( NaN%)   NaN:NaN   Sjedinjene Države   
+        Grupa A |           Australija (36.3%) W 109:102   Španija             
+        Grupa A |                Grčka (29.7%)    91:99  W Kanada              
+        Grupa B |              Nemačka (91.2%) W 116:86    Japan               
+        Grupa B |            Francuska (59.1%) W  94:78    Brazil              
+        Grupa C |          Južni Sudan (19.5%)    85:113 W Puerto Riko         
+        Grupa C |               Srbija (40.4%)    77:90  W Sjedinjene Države   
     II kolo
-        Grupa A |              Španija ( NaN%)   NaN:NaN   Grčka               
-        Grupa A |               Kanada ( NaN%)   NaN:NaN   Australija          
-        Grupa B |                Japan ( NaN%)   NaN:NaN   Francuska           
-        Grupa B |               Brazil ( NaN%)   NaN:NaN   Nemačka             
-        Grupa C |          Puerto Riko ( NaN%)   NaN:NaN   Srbija              
-        Grupa C |    Sjedinjene Države ( NaN%)   NaN:NaN   Južni Sudan         
+        Grupa A |              Španija (79.6%)    95:99  W Grčka                [PREVRNUĆE]
+        Grupa A |               Kanada (43.5%) W  90:83    Australija          
+        Grupa B |                Japan (10.0%)    78:95  W Francuska           
+        Grupa B |               Brazil (26.9%) W  89:86    Nemačka              [PREVRNUĆE]
+        Grupa C |          Puerto Riko ( 9.7%)    89:112 W Srbija              
+        Grupa C |    Sjedinjene Države (99.0%) W 109:76    Južni Sudan         
     III kolo
-        Grupa A |               Kanada ( NaN%)   NaN:NaN   Španija             
-        Grupa A |           Australija ( NaN%)   NaN:NaN   Grčka               
-        Grupa B |               Brazil ( NaN%)   NaN:NaN   Japan               
-        Grupa B |              Nemačka ( NaN%)   NaN:NaN   Francuska           
-        Grupa C |    Sjedinjene Države ( NaN%)   NaN:NaN   Puerto Riko         
-        Grupa C |          Južni Sudan ( NaN%)   NaN:NaN   Srbija              
+        Grupa A |               Kanada (60.5%)    96:104 W Španija             
+        Grupa A |           Australija (68.2%) W 105:85    Grčka               
+        Grupa B |               Brazil (86.0%) W 104:93    Japan               
+        Grupa B |              Nemačka (45.8%) W 112:102   Francuska           
+        Grupa C |    Sjedinjene Države (95.6%) W 111:95    Puerto Riko         
+        Grupa C |          Južni Sudan ( 2.0%)    85:110 W Srbija              
 
 Konačni rangovi u grupi
     Grupa A
-                 Australija 0W 3L  NaN-NaN   NaNd 3 poena
-                      Grčka 0W 3L  NaN-NaN   NaNd 3 poena
-                     Kanada 0W 3L  NaN-NaN   NaNd 3 poena
+                 Australija 2W 1L  297-277    20d 5 poena
+                     Kanada 2W 1L  285-278     7d 5 poena
+                      Grčka 1W 2L  275-299  - 24d 4 poena
+                    Španija 1W 2L  301-304  -  3d 4 poena
     Grupa B
-                    Nemačka 0W 3L  NaN-NaN   NaNd 3 poena
-                  Francuska 0W 3L  NaN-NaN   NaNd 3 poena
-                     Brazil 0W 3L  NaN-NaN   NaNd 3 poena
+                    Nemačka 2W 1L  314-277    37d 5 poena
+                  Francuska 2W 1L  291-268    23d 5 poena
+                     Brazil 2W 1L  271-273  -  2d 5 poena
+                      Japan 0W 3L  257-315  - 58d 3 poena
     Grupa C
-                Južni Sudan 0W 3L  NaN-NaN   NaNd 3 poena
-                     Srbija 0W 3L  NaN-NaN   NaNd 3 poena
-          Sjedinjene Države 0W 3L  NaN-NaN   NaNd 3 poena
+          Sjedinjene Države 3W 0L  310-248    62d 6 poena
+                     Srbija 2W 1L  299-264    35d 5 poena
+                Puerto Riko 1W 2L  297-308  - 11d 4 poena
+                Južni Sudan 0W 3L  246-332  - 86d 3 poena
 
 Konačna rang lista timova
-    1.           Australija 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    2.              Nemačka 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    3.          Južni Sudan 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    4.                Grčka 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    5.            Francuska 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    6.               Srbija 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    7.               Kanada 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    8.               Brazil 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
-    9.    Sjedinjene Države 0W 3L  NaN-NaN   NaNd 3 poena  NaN forma
+    1.    Sjedinjene Države 3W 0L  310-248    62d 6 poena 1061 forma
+    2.              Nemačka 2W 1L  314-277    37d 5 poena  934 forma
+    3.           Australija 2W 1L  297-277    20d 5 poena  976 forma
+    4.               Srbija 2W 1L  299-264    35d 5 poena  995 forma
+    5.            Francuska 2W 1L  291-268    23d 5 poena  903 forma
+    6.               Kanada 2W 1L  285-278     7d 5 poena  961 forma
+    7.               Brazil 2W 1L  271-273  -  2d 5 poena  890 forma
+    8.          Puerto Riko 1W 2L  297-308  - 11d 4 poena  789 forma
+    9.                Grčka 1W 2L  275-299  - 24d 4 poena  882 forma
 
 Šeširi
-    D: Australija, Nemačka
-    E: Južni Sudan, Grčka
-    F: Francuska, Srbija
-    G: Kanada, Brazil
+    D: Sjedinjene Države, Nemačka
+    E: Australija, Srbija
+    F: Francuska, Kanada
+    G: Brazil, Puerto Riko
 
 Eliminaciona faza
-              Australija - Brazil
-                 Nemačka - Kanada
-             Južni Sudan - Francuska
-                   Grčka - Srbija
+       Sjedinjene Države - Brazil
+                 Nemačka - Puerto Riko
+              Australija - Francuska
+                  Srbija - Kanada
 Četvrtfinale
-              Australija ( NaN%)   NaN:NaN   Brazil              
-                 Nemačka ( NaN%)   NaN:NaN   Kanada              
-             Južni Sudan ( NaN%)   NaN:NaN   Francuska           
-                   Grčka ( NaN%)   NaN:NaN   Srbija              
+       Sjedinjene Države (87.6%) W 114:101   Brazil              
+                 Nemačka (84.1%) W 121:95    Puerto Riko         
+              Australija (69.9%) W 102:92    Francuska           
+                  Srbija (59.4%) W 104:92    Kanada              
 Polufinale
+       Sjedinjene Države (80.9%) W  98:78    Nemačka             
+              Australija (43.5%) W 114:104   Srbija              
+Bronzana medalja
+                 Nemačka (34.7%) W  84:79    Srbija              
+Zlatna medalja
+       Sjedinjene Države (67.2%) W 113:97    Australija          
+
+Medalje:
+    1. Sjedinjene Države
+    2. Australija
+    3. Nemačka
